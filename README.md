@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://instagram.com/charmingprince6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charmingprince6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madhankumarpdckap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhankumarpdckap" height="30" width="40" /></a>
-<a href="https://discord.gg/madhan_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="madhan_kumar" height="30" width="40" /></a>
+<a href="https://discord.gg/MadhanKumar#3725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MadhanKumar#3725" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
